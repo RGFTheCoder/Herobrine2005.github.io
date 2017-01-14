@@ -8,7 +8,7 @@
 # Site settings
 title: Recdeclec
 email: totogonzalezfernandez@gmail.com
-description: > #"codecademy website"
+description: > "codecademy website"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  Herobrine2005
